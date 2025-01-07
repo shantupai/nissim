@@ -1,2 +1,2 @@
 # nissim
-fondatin member
+fondation member
